@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shalomkohn
 - 👀 I’m interested in front end development
-- 💞️ I’m looking to collaborate on front end websites
+- 💞️ I’m looking to collaborate on amazing projects!
 - 📫 Reach me at sbk5775@gmail.com or @Shalom_Dev
 
 <!---
